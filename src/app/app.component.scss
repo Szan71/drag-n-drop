@@ -1,0 +1,40 @@
+.angular {
+    height: 50vh;
+    width: 50%;
+    background-color: green;
+    float: left;
+}
+
+.angular>div,
+.java>div,
+.python>div,
+.react>div {
+    color: white;
+    font-size: 20px;
+}
+
+.java {
+    height: 50vh;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+
+.python {
+    height: 50vh;
+    width: 50%;
+    background-color: red;
+    float: left;
+}
+
+.react {
+    height: 50vh;
+    width: 50%;
+    background-color: brown;
+    float: left;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
